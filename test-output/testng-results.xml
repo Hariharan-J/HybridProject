@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NormalTestNG" duration-ms="26602" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:50 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="NormalTestNGTest" duration-ms="26602" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:50 IST">
+      <class name="Hybridtestcases.Hybrid_TC001_CreateLead">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="startReport" is-config="true" duration-ms="100" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="setData" is-config="true" duration-ms="0" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="setUpClass" is-config="true" duration-ms="200" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="startTest" is-config="true" duration-ms="0" started-at="2020-04-03T18:58:23 IST" finished-at="2020-04-03T18:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="browseropen()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="browseropen" is-config="true" duration-ms="10758" started-at="2020-04-03T18:58:24 IST" finished-at="2020-04-03T18:58:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method status="PASS" signature="CreateLead_TC(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="CreateLead_TC" duration-ms="10617" started-at="2020-04-03T18:58:35 IST" data-provider="getdata" finished-at="2020-04-03T18:58:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[phone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[charger]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[battery]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateLead_TC -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="closeBrowser" is-config="true" duration-ms="4386" started-at="2020-04-03T18:58:45 IST" finished-at="2020-04-03T18:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="tearDownClass" is-config="true" duration-ms="5" started-at="2020-04-03T18:58:50 IST" finished-at="2020-04-03T18:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Hybridtestcases.Hybrid_TC001_CreateLead@765367]" name="endReport" is-config="true" duration-ms="300" started-at="2020-04-03T18:58:50 IST" finished-at="2020-04-03T18:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Hybridtestcases.Hybrid_TC001_CreateLead -->
+    </test> <!-- NormalTestNGTest -->
+  </suite> <!-- NormalTestNG -->
+</testng-results>

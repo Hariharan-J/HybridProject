@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NormalTestNG">
+  <test thread-count="5" verbose="5" name="NormalTestNGTest">
+    <classes>
+      <class name="Hybridtestcases.Hybrid_TC001_CreateLead"/>
+    </classes>
+  </test> <!-- NormalTestNGTest -->
+</suite> <!-- NormalTestNG -->
